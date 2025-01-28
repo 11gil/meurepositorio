@@ -1,1 +1,8 @@
 Olá, Git!
+<<<<<<< HEAD
+=======
+
+Alteração no GitHub
+
+Adicione uma linha, por exemplo
+>>>>>>> 2c65ece64324c2cdcfaad8b37422aa49a36bd15c
