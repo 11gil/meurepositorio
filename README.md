@@ -11,6 +11,4 @@ O objetivo do projeto é criar esse repositório como exemplo abrangendo o progr
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/usuario/nome-do-repositorio.git](https://github.com/seu-usuario/meurepositorio.git)
-   
-
+   git clone git@github.com:11gil/meurepositorio.git
