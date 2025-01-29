@@ -1,14 +1,15 @@
-Esse repositório é o meu primeiro repositório criado para fins de estudos.
-# Nome do Projeto: Meu repositório
+# Meu Projeto
 
-## Descrição:
-O objetivo do projeto é criar esse repositório como exemplo abrangendo o programa ONE.
+Este é um projeto de exemplo para aprendizado de Git e GitHub.
 
-## Tecnologias Utilizadas
-- GitHub
-- JavaScript  
+## 🚀 Tecnologias
 
-## Como Executar
+- Git e GitHub
+- Markdown
+
+## 📥 Instalação
+
 1. Clone o repositório:
-   ```bash
+   ```sh
    git clone git@github.com:11gil/meurepositorio.git
+
