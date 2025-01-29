@@ -1,2 +1,4 @@
+git rm --cached logs.txt
 log.txt
 logs.txt
+
