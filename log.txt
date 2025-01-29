@@ -1,0 +1,23 @@
+PS D:\Projetos\MeuRepositorio> git log   
+commit 6e4873a0d4dd2d7cf8e3dbed91389ca5dcacb106 (HEAD -> master, tag: v1.0)
+Author: 11gil <gilson.tavares1812@gmail.com>
+Date:   Tue Jan 28 10:54:34 2025 -0300
+
+    Update meuarquivo.txt
+
+commit 9fe8a27d8b484b516db8af0e277e4a66de6c2f30
+Author: Gilson Tavares <gilson.tavares1510@gmail.com>
+Date:   Tue Jan 28 10:34:17 2025 -0300
+
+PS D:\Projetos\MeuRepositorio>
+git log
+commit 108402bbe430200672066b016da2c91837e4b03b (HEAD -> master, origin/master)
+Author: Gilson Tavares <gilson.tavares1510@gmail.com>
+Date:   Wed Jan 29 06:49:10 2025 -0300
+
+    Adicionando o README.md com a documentação do projeto
+
+commit ddb319662a540a4113ad0e428e75de98c0543ef8
+Merge: 01f972b 2c65ece
+Author: Gilson Tavares <gilson.tavares1510@gmail.com>
+Date:   Tue Jan 28 15:48:20 2025 -0300type
